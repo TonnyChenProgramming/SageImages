@@ -1,0 +1,22 @@
+Edible Plants:
+    - Garlic
+    - BlackBerry
+    - Basil
+    - CherryTomato
+    - Chives
+    - Mint
+    - Apple
+    - Grape
+    - Orange
+    - RasBerries
+
+Flowering Plants:
+    - Azalea
+    - Lavender
+    - Margold
+    - Petunia
+
+Indoor Plants:
+    - PeaceLily
+    - SnakePlant
+    - ZZPlant
