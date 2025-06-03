@@ -27,3 +27,10 @@ Indoor Plants:
     - PeaceLily
     - SnakePlant
     - ZZPlant
+    - Fiddle leaf fig
+    - Money Tree
+    - Aloe vera
+    - Spider Plant
+    - Rubber Plant
+    - Radiator Plant
+    - Swiss cheese Plant
