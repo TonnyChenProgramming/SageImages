@@ -15,6 +15,13 @@ Flowering Plants:
     - Lavender
     - Margold
     - Petunia
+    - Daffodil
+    - Iris
+    - SunFlower
+    - Rose
+    - Rhododendron
+    - Dehila
+    - Magnolia
 
 Indoor Plants:
     - PeaceLily
