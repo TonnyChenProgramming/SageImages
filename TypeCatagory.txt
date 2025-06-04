@@ -1,6 +1,6 @@
 Edible Plants:
     - Garlic
-    - BlackBerry
+    - BlackBerries
     - Basil
     - CherryTomato
     - Chives
@@ -8,7 +8,7 @@ Edible Plants:
     - Apple
     - Grape
     - Orange
-    - RasBerries
+    - RasBerry
 
 Flowering Plants:
     - Azalea
@@ -27,7 +27,7 @@ Indoor Plants:
     - PeaceLily
     - SnakePlant
     - ZZPlant
-    - Fiddle leaf fig
+    - Fiddle-leaf fig
     - Money Tree
     - Aloe vera
     - Spider Plant
